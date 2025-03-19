@@ -41,7 +41,7 @@ Durante o desenvolvimento do projeto, os seguintes conceitos foram aplicados:
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/task-up.git
+   git clone https://github.com/and3510/ListaTarefas_Studied
    ```
 2. Acesse a pasta do projeto:
    ```sh
