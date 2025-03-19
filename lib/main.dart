@@ -42,9 +42,6 @@ class MyApp extends StatelessWidget {
             )
           ],
         ),
-        floatingActionButton: FloatingActionButton(
-          onPressed: () {},
-        ),
       ),
     );
   }
